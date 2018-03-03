@@ -256,7 +256,7 @@ foreach ($ftoo as $too_alone) {
 						</div>
 						<div class="row">
 							<div class="col-xs-12" id="submit">
-								<button type="submit" class="btn btn-success btn-block"  >Поиск1</button>
+								<button type="submit" class="btn btn-success btn-block"  >Поиск12</button>
 							</div>
 						<!--	<div class="col-xs-3" id="submit">
 								<button type="reset" class="btn btn-warning btn-block"  >Очистить</button>
