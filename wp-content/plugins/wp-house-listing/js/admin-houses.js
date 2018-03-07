@@ -1,4 +1,5 @@
 jQuery(document).ready(function($) {
+    $( "#datepicker" ).datepicker();
 
 	var sortList = $('ul#custom-type-list');
 	var animation= $('#loading-animation');
