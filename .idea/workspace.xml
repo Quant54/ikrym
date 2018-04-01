@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65165f1f-aec7-47d3-b09b-d4858456636d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-harray-cpt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-harray-fields.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/public_html.iml" afterPath="$PROJECT_DIR$/.idea/IKRYM.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/css/admin-houses.css" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/css/admin-houses.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/js/admin-houses.js" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/js/admin-houses.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-listing.php" afterPath="$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-listing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/css/caching_info.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/css/caching_info.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/buttons-k4s6se8.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/buttons-k4s6se8.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/caching_info.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/caching_info.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/emptySpace-pplfhe6.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/emptySpace-pplfhe6.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/heading-ppiq83b.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/heading-ppiq83b.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/heading-ppj54vq.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/heading-ppj54vq.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/heading-qgoa7in.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/heading-qgoa7in.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/icons-ppj8nfa.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/icons-ppj8nfa.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/image-ppim7dr.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/image-ppim7dr.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/list-ppirpcr.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/list-ppirpcr.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/list-ppis7ur.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/list-ppis7ur.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj54vr.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj54vr.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj54vs.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj54vs.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj54vt.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj54vt.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj8nfd.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppj8nfd.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppkokkv.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-ppkokkv.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-qgoajfb.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/elementsCache/paragraph-qgoajfb.frs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshframework/freshbuilder/caching_info.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshframework/freshbuilder/caching_info.frs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/freshizer/img_caching_info.frs" afterPath="$PROJECT_DIR$/wp-content/uploads/freshizer/img_caching_info.frs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +28,7 @@
       <file leaf-file-name="wp-house-shortcode.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-shortcode.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4335">
+            <state relative-caret-position="838">
               <caret line="258" column="97" lean-forward="false" selection-start-line="258" selection-start-column="97" selection-end-line="258" selection-end-column="97" />
               <folding>
                 <marker date="1520089995698" expanded="true" signature="2250:2413" ph="..." />
@@ -203,9 +179,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="748" />
-    <option name="y" value="308" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="100" />
+    <option name="y" value="44" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -242,6 +218,13 @@
               <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="IKRYM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_html" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-house-listing" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="IKRYM" type="b2602c69:ProjectViewProjectNode" />
@@ -296,15 +279,15 @@
       <workItem from="1520095031227" duration="13000" />
       <workItem from="1520154154872" duration="13339000" />
       <workItem from="1520319838763" duration="45000" />
-      <workItem from="1520438495584" duration="23000" />
+      <workItem from="1520438495584" duration="1208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14398000" />
+    <option name="totallyTimeSpent" value="15583000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="100" y="44" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -712,9 +695,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-cpt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/js/admin-houses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/css/admin-houses.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-harray-cpt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-harray-fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-shortcode.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4335">
+        <state relative-caret-position="838">
           <caret line="258" column="97" lean-forward="false" selection-start-line="258" selection-start-column="97" selection-end-line="258" selection-end-column="97" />
           <folding>
             <marker date="1520089995698" expanded="true" signature="2250:2413" ph="..." />
@@ -775,53 +806,6 @@
             <marker date="1520089995698" expanded="true" signature="14534:14540" ph="→" />
             <marker date="1520089995698" expanded="true" signature="14712:14718" ph="←" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-cpt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-house-fields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/js/admin-houses.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/css/admin-houses.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-harray-cpt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
-          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-house-listing/wp-harray-fields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
         </state>
       </provider>
     </entry>
